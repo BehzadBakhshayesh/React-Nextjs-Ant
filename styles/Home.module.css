@@ -1,0 +1,17 @@
+.Home {
+ width: 100%;
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+ align-items: center;
+}
+
+.homeH2{
+    font-size:40px ;
+    color: #1890ff;
+    flex-basis: 100%;
+    display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+ align-items: center;
+}

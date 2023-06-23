@@ -1,0 +1,21 @@
+.Header{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.headerH2{
+   margin: 0;
+   padding: 0;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color: #fff;
+}
+
+.logoContainer{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
